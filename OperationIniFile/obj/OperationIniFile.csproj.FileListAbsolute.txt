@@ -1,0 +1,8 @@
+D:\C#操作INF文件\OperationIniFile\obj\Debug\OperationIniFile.exe
+D:\C#操作INF文件\OperationIniFile\obj\Debug\OperationIniFile.pdb
+D:\C#操作INF文件\OperationIniFile\bin\Debug\OperationIniFile.exe
+D:\C#操作INF文件\OperationIniFile\bin\Debug\OperationIniFile.pdb
+D:\C#操作INF文件\OperationIniFile\obj\Debug\ResolveAssemblyReference.cache
+D:\C#操作INF文件\OperationIniFile\obj\Debug\OperationIniFile.Form1.resources
+D:\C#操作INF文件\OperationIniFile\obj\Debug\OperationIniFile.Properties.Resources.resources
+D:\C#操作INF文件\OperationIniFile\obj\Debug\OperationIniFile.csproj.GenerateResource.Cache

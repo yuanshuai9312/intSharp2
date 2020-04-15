@@ -1,0 +1,8 @@
+bin\Debug\OperationIniFile.exe
+bin\Debug\OperationIniFile.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\OperationIniFile.Form1.resources
+obj\Debug\OperationIniFile.Properties.Resources.resources
+obj\Debug\OperationIniFile.csproj.GenerateResource.Cache
+obj\Debug\OperationIniFile.exe
+obj\Debug\OperationIniFile.pdb
